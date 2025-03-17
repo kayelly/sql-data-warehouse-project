@@ -37,5 +37,5 @@ These insighst empower stakeholders with key business metrics, enabling strategi
 This project is licensed under the [MIT License].(LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## About Me
-Hi there! I'm  **Kemi*, also known as **Adekemi**. I'm a Data & Business Intelligence Professional with diverse experience in IT, project/portfolio management, and financial consulting.
+Hi there! I'm  **Kemi**, also known as **Adekemi**. I'm a Data & Business Intelligence Professional with diverse experience in IT, project/portfolio management, and financial consulting.
 
