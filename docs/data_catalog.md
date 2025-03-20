@@ -43,3 +43,21 @@ The Gold Layer is the business-level data representation, structured to support 
 |start_date		          |  DATE                   |  The date when the product became available for sale or use, stored in.    
 
 -----------------------------------------------------------------------------------------------------------------------------------------
+**2. gold.fact_sales**
+  - **Purpose**: Stores transactional sales data for analytical purposes.
+  - **Columns**: 
+
+
+|  Column Name	          |  Data Type	            |  Description                                                                      |
+|-------------------------|-------------------------|-----------------------------------------------------------------------------------|
+|order_number            |  NVARCHAR(50) 	                  |  A unique alphanumeric identifier for each sales order (e.g., 'SO54496').  |
+|product_key            |  INT                    |  Surrogate key linking the order to the product dimension table.                           |
+|customer_key			      |  INT          |  Surrogate key linking the order to the customer dimension table. |          
+|order_date	            |  DATE          |  The date when the order was placed.                            |
+|shipping_date		            |  DATE           |  The date when the order was shipped to the customer.                               |
+|due_date		              |  DATE           |  The date when the order payment was due.                    |
+|sales_amount	          |  INT           |  The total monetary value of the sale for the line item, in whole currency units (e.g., 25).                  |	
+|quantity	                |  INT           |  The number of units of the product ordered for the line item (e.g., 1).                             |	
+|price		            |  INT                   |  The price per unit of the product for the line item, in whole currency units (e.g., 25). |	
+
+-----------------------------------------------------------------------------------------------------------------------------------------
