@@ -58,7 +58,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ---
-##Data Architecture 
+## Data Architecture 
 The data architecture for this project follows Medallion Architecture Bronze, Silver and Gold Layers:
 ![image](https://github.com/user-attachments/assets/9f07a80f-72c8-4742-aefc-68a0cf29df99)
 
