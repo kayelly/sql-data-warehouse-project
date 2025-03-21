@@ -23,9 +23,13 @@ This repository is an excellent resource for professionals and students looking 
 
 ---
 ## Tools Used:
-Everything s
-- https://github.com/kayelly/sql-data-warehouse-project/tree/main/datasets 
-
+- **Dataset**: The Datasets can be found here https://github.com/kayelly/sql-data-warehouse-project/tree/main/datasets
+- **SQL Server Express**: Lightweight server for hosting your SQL database.
+- **SQL Server Management Studio (SSMS)**: GUI for managing and interacting with databases.
+- **Git Repository**: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+- **DrawIO**: Design data architecture, models, flows and diagrams.
+- **Notion**: All-in-one tool for project management and organization.
+- **Notio Project Steps**: Access to All Project Phases and Tasks.
 
 ---
 ## Project Requirements 
