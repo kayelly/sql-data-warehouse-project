@@ -55,8 +55,11 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Sales Trends**
 
 
-These insighst empower stakeholders with key business metrics, enabling strategic decision-making.
+These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
+---
+### Data Architecture
+The data architecture for this project follows Medallion Architecture Bronze, Silver and Gold Layers:
 ---
 
 ## License 
