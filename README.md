@@ -24,6 +24,7 @@ This repository is an excellent resource for professionals and students looking 
 ---
 ## Tools Used:
 Everything s
+- https://github.com/kayelly/sql-data-warehouse-project/tree/main/datasets 
 
 
 ---
