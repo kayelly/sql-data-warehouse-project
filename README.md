@@ -71,8 +71,10 @@ Repository Structure
 data-warehouse-project/
 |
 |--- datasets/                            # Raw datasets used for the project (ERP and CRM data)
+-
 |
 |--- docs/                                # Project documentation and architecture details
+-
 |    |--- etl.drawio                      # Draw.io file shows all different techniques and methos of ETL
 |    |--- data_architecture.drawio        # Draw.io file shows the project's architecture
 |    |--- data_catalog.drawio             # Catalog of datasets, including field descriptions and metadata
