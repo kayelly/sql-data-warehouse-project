@@ -22,6 +22,8 @@ Usage:
 -- ==================================================================================
 -- Checking 'gold.dim_customers'
 -- ==================================================================================
+-- Check for uniqueness of Customer Key in gold.dim_customers
+-- Expectation: No results
 
 SELECT 
 	customer_key, 
@@ -42,6 +44,8 @@ FROM gold.dim_customers
 -- ==================================================================================
 -- Checking 'gold.dim_products'
 -- ==================================================================================
+-- Check for uniqueness of Product Key in gold.dim_products
+-- Expectation: No results
 
 SELECT 
 	product_key, 
