@@ -68,13 +68,12 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 ---
 
 Repository Structure
+```
 data-warehouse-project/
 |
 |--- datasets/                            # Raw datasets used for the project (ERP and CRM data)
--
 |
 |--- docs/                                # Project documentation and architecture details
--
 |    |--- etl.drawio                      # Draw.io file shows all different techniques and methos of ETL
 |    |--- data_architecture.drawio        # Draw.io file shows the project's architecture
 |    |--- data_catalog.drawio             # Catalog of datasets, including field descriptions and metadata
@@ -93,6 +92,7 @@ data-warehouse-project/
 |    |--- LICENSE                        # License information for the repository
 |    |--- .gitignore                     # Files and directories to be ignored by Git
 |    |--- requirements.txt               # Dependencies and requirements for the project
+```
 
 ## License 
 This project is licensed under the [MIT License].(LICENSE). You are free to use, modify, and share this project with proper attribution.
